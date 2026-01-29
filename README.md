@@ -74,7 +74,7 @@ RAG-Based-Question-Answering-System/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <https://github.com/SohamDey2005/RAG-Based-Question-Answering-System>
+git clone <https://github.com/SohamDey2005/RAG-Based-Question-Answering-System.git>
 cd RAG-Based-Question-Answering-System
 ```
 
